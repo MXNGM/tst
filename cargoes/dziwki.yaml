@@ -1,0 +1,17 @@
+abbreviation: Dz
+available: false
+classes: 1
+colour: 120
+id: 0
+label: Dziw
+longName: dziwki
+name: Dziwki
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/dziwki.png
+  left: 0
+  top: 0
+unitName: Passengers
+weight: 16

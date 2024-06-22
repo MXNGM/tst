@@ -1,0 +1,18 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- Dziw
+cargoProduction:
+- Dziw
+colour: 1
+fundCostMultiplier: 255
+id: 0
+layout:
+- - - -1
+name: Burdel
+placement: in-town
+probabilityInGame: 5
+probabilityMapGen: 17
+prospectChance: 75
+tiles: []
+type: primary
